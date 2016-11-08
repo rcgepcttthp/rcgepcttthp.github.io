@@ -1,0 +1,29 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1478569573764">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_subject-master-copy.css" crc="3979515455" ref="subject"/>
+    <file name="master_home-master.css" crc="499938449" ref="index"/>
+    <file name="master_plan-master-copy-copy.css" crc="3972507926" ref="subject-page-2"/>
+    <file name="subject-page-2.css" crc="481410351" ref="subject-page-2"/>
+    <file name="index.css" crc="4271839959" ref="index"/>
+    <file name="subject.css" crc="4117708780" ref="subject"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:subject:subject-page-2"/>
+    <file name="museutils.js" crc="163421577" ref="index:subject:subject-page-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:subject:subject-page-2"/>
+    <file name="museconfig.js" crc="168988563" ref="index:subject:subject-page-2"/>
+    <file name="webpro.js" crc="3848665353" ref="index:subject:subject-page-2"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:subject:subject-page-2"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:subject:subject-page-2"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:subject:subject-page-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:subject:subject-page-2"/>
+    <file name="require.js" crc="244322403" ref="index:subject:subject-page-2"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.png" crc="3864505652" seo="true" ref="index:subject:subject-page-2"/>
+  </folder>
+  <file name="index.html" crc="230004269" seo="true" mt="1478306057398" redirect="true"/>
+  <file name="subject.html" crc="4231226463" seo="true" mt="1478306129988" redirect="true"/>
+  <file name="subject-page-2.html" crc="172926570" seo="true" mt="1478306197243" redirect="true"/>
+</manifest>
