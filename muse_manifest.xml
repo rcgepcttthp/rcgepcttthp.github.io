@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1478569573764">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1479694264357">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_subject-master-copy.css" crc="3979515455" ref="subject"/>
-    <file name="master_home-master.css" crc="499938449" ref="index"/>
-    <file name="master_plan-master-copy-copy.css" crc="3972507926" ref="subject-page-2"/>
-    <file name="subject-page-2.css" crc="481410351" ref="subject-page-2"/>
-    <file name="index.css" crc="4271839959" ref="index"/>
-    <file name="subject.css" crc="4117708780" ref="subject"/>
+    <file name="master_subject-master-copy.css" crc="352710796" ref="subject"/>
+    <file name="master_home-master.css" crc="4157325429" ref="index"/>
+    <file name="master_plan-master-copy-copy.css" crc="3763807830" ref="subject-page-2"/>
+    <file name="subject-page-2.css" crc="4228542641" ref="subject-page-2"/>
+    <file name="index.css" crc="274535707" ref="index"/>
+    <file name="subject.css" crc="128024678" ref="subject"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:subject:subject-page-2"/>
@@ -23,7 +23,7 @@
   <folder name="images">
     <file name="favicon.png" crc="3864505652" seo="true" ref="index:subject:subject-page-2"/>
   </folder>
-  <file name="index.html" crc="230004269" seo="true" mt="1478306057398" redirect="true"/>
-  <file name="subject.html" crc="4231226463" seo="true" mt="1478306129988" redirect="true"/>
-  <file name="subject-page-2.html" crc="172926570" seo="true" mt="1478306197243" redirect="true"/>
+  <file name="index.html" crc="4119953160" seo="true" mt="1479684496255" redirect="true"/>
+  <file name="subject.html" crc="4015272684" seo="true" mt="1479684482878" redirect="true"/>
+  <file name="subject-page-2.html" crc="493254567" seo="true" mt="1479684473579" redirect="true"/>
 </manifest>
