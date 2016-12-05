@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://rcgepcttthp.github.io/index.html</loc>
-    <lastmod>2016-11-20</lastmod>
+    <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rcgepcttthp.github.io/subject.html</loc>
-    <lastmod>2016-11-20</lastmod>
+    <loc>http://rcgepcttthp.github.io/marketing.html</loc>
+    <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://rcgepcttthp.github.io/subject-page-2.html</loc>
-    <lastmod>2016-11-20</lastmod>
+    <loc>http://rcgepcttthp.github.io/marketing-plan.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://rcgepcttthp.github.io/videos.html</loc>
+    <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rcgepcttthp.github.io/images/favicon.png</loc>
-    <lastmod>2016-11-20</lastmod>
+    <lastmod>2016-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

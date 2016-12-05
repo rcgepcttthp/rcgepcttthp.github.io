@@ -1,29 +1,32 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1479694264357">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1480941272563">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_subject-master-copy.css" crc="352710796" ref="subject"/>
-    <file name="master_home-master.css" crc="4157325429" ref="index"/>
-    <file name="master_plan-master-copy-copy.css" crc="3763807830" ref="subject-page-2"/>
-    <file name="subject-page-2.css" crc="4228542641" ref="subject-page-2"/>
-    <file name="index.css" crc="274535707" ref="index"/>
-    <file name="subject.css" crc="128024678" ref="subject"/>
+    <file name="master_subject-master-copy.css" crc="221441852" ref="marketing"/>
+    <file name="master_home-master.css" crc="4202379285" ref="index"/>
+    <file name="master_plan-master-copy-copy.css" crc="4068082746" ref="marketing-plan"/>
+    <file name="index.css" crc="4150021553" ref="index"/>
+    <file name="master_videos-master.css" crc="4086223958" ref="videos"/>
+    <file name="marketing.css" crc="4150447347" ref="marketing"/>
+    <file name="videos.css" crc="4092260014" ref="videos"/>
+    <file name="marketing-plan.css" crc="3805962862" ref="marketing-plan"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:subject:subject-page-2"/>
-    <file name="museutils.js" crc="163421577" ref="index:subject:subject-page-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:subject:subject-page-2"/>
-    <file name="museconfig.js" crc="168988563" ref="index:subject:subject-page-2"/>
-    <file name="webpro.js" crc="3848665353" ref="index:subject:subject-page-2"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="index:subject:subject-page-2"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:subject:subject-page-2"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:subject:subject-page-2"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:subject:subject-page-2"/>
-    <file name="require.js" crc="244322403" ref="index:subject:subject-page-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:marketing:marketing-plan:videos"/>
+    <file name="museutils.js" crc="163421577" ref="index:marketing:marketing-plan:videos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:marketing:marketing-plan:videos"/>
+    <file name="museconfig.js" crc="168988563" ref="index:marketing:marketing-plan:videos"/>
+    <file name="webpro.js" crc="3848665353" ref="index:marketing:marketing-plan:videos"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:marketing:marketing-plan:videos"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:marketing:marketing-plan:videos"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:marketing:marketing-plan:videos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:marketing:marketing-plan:videos"/>
+    <file name="require.js" crc="244322403" ref="index:marketing:marketing-plan:videos"/>
   </folder>
   <folder name="images">
-    <file name="favicon.png" crc="3864505652" seo="true" ref="index:subject:subject-page-2"/>
+    <file name="favicon.png" crc="3864505652" seo="true" ref="index:marketing:marketing-plan:videos"/>
   </folder>
-  <file name="index.html" crc="4119953160" seo="true" mt="1479684496255" redirect="true"/>
-  <file name="subject.html" crc="4015272684" seo="true" mt="1479684482878" redirect="true"/>
-  <file name="subject-page-2.html" crc="493254567" seo="true" mt="1479684473579" redirect="true"/>
+  <file name="index.html" crc="487511038" seo="true" mt="1480938655576" redirect="true"/>
+  <file name="marketing.html" crc="4290835324" seo="true" mt="1480938655519" redirect="true"/>
+  <file name="marketing-plan.html" crc="211523305" seo="true" mt="1480938655584" redirect="true"/>
+  <file name="videos.html" crc="4249574342" seo="true" mt="1480941219832" redirect="true"/>
 </manifest>
