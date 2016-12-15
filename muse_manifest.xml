@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1481817311154">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1481818246730">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_subject-master-copy.css" crc="4078845056" ref="marketing"/>
@@ -28,7 +28,7 @@
     <file name="who-are-you-cover-194x300.jpg" crc="403656870" seo="true" ref="marketing"/>
     <file name="social-facebook-icon.png" crc="4138989513" seo="true" ref="marketing-plan"/>
   </folder>
-  <file name="index.html" crc="3785887809" seo="true" mt="1481732837023" redirect="true"/>
+  <file name="index.html" crc="4170870781" seo="true" mt="1481818224435" redirect="true"/>
   <file name="marketing.html" crc="440951066" seo="true" mt="1481733390948" redirect="true"/>
   <file name="marketing-plan.html" crc="517701542" seo="true" mt="1481733966386" redirect="true"/>
   <file name="videos.html" crc="357917726" seo="true" mt="1481816819188" redirect="true"/>
