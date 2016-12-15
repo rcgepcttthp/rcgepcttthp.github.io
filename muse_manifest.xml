@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1480941272563">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rcgepcttthp.github.io" resolutions="1x" timestamp="1481817311154">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_subject-master-copy.css" crc="221441852" ref="marketing"/>
-    <file name="master_home-master.css" crc="4202379285" ref="index"/>
-    <file name="master_plan-master-copy-copy.css" crc="4068082746" ref="marketing-plan"/>
-    <file name="index.css" crc="4150021553" ref="index"/>
+    <file name="master_subject-master-copy.css" crc="4078845056" ref="marketing"/>
+    <file name="master_home-master.css" crc="4156879402" ref="index"/>
+    <file name="master_plan-master-copy-copy.css" crc="3798635223" ref="marketing-plan"/>
+    <file name="index.css" crc="4072951494" ref="index"/>
     <file name="master_videos-master.css" crc="4086223958" ref="videos"/>
-    <file name="marketing.css" crc="4150447347" ref="marketing"/>
+    <file name="marketing.css" crc="139075332" ref="marketing"/>
     <file name="videos.css" crc="4092260014" ref="videos"/>
-    <file name="marketing-plan.css" crc="3805962862" ref="marketing-plan"/>
+    <file name="marketing-plan.css" crc="72505372" ref="marketing-plan"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:marketing:marketing-plan:videos"/>
@@ -24,9 +24,12 @@
   </folder>
   <folder name="images">
     <file name="favicon.png" crc="3864505652" seo="true" ref="index:marketing:marketing-plan:videos"/>
+    <file name="biblejpg.jpg" crc="3898985069" seo="true" ref="index"/>
+    <file name="who-are-you-cover-194x300.jpg" crc="403656870" seo="true" ref="marketing"/>
+    <file name="social-facebook-icon.png" crc="4138989513" seo="true" ref="marketing-plan"/>
   </folder>
-  <file name="index.html" crc="487511038" seo="true" mt="1480938655576" redirect="true"/>
-  <file name="marketing.html" crc="4290835324" seo="true" mt="1480938655519" redirect="true"/>
-  <file name="marketing-plan.html" crc="211523305" seo="true" mt="1480938655584" redirect="true"/>
-  <file name="videos.html" crc="4249574342" seo="true" mt="1480941219832" redirect="true"/>
+  <file name="index.html" crc="3785887809" seo="true" mt="1481732837023" redirect="true"/>
+  <file name="marketing.html" crc="440951066" seo="true" mt="1481733390948" redirect="true"/>
+  <file name="marketing-plan.html" crc="517701542" seo="true" mt="1481733966386" redirect="true"/>
+  <file name="videos.html" crc="357917726" seo="true" mt="1481816819188" redirect="true"/>
 </manifest>
